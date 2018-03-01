@@ -5,7 +5,7 @@ Hash Code is a team programming competition organized by Google for students and
 
 We have participated to this competition and presented this solution based on an heuristic optimization algorithm.
 
-You can see the Problem Statement of the competition here.
+You can see the Problem Statement of the competition [here](https://github.com/pautena/Hashcode2018/blob/master/online_qualification_round_2018.pdf).
 
 This repository also includes the following test inputs:
 - a_example.in
